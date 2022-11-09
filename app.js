@@ -37,7 +37,7 @@ tasks.addEventListener('click', (e) =>{
     }
 })
 
-//marcado de item de lista
+//marcado de item de lista 
 tasks.addEventListener('click', (e) =>{
     if(e.target.classList.contains('fa-pen-to-square'))
     {
