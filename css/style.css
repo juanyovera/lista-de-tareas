@@ -86,7 +86,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgb(86, 47, 105) 100%, rgb
 }
 .item-btn i{
     color:  rgba(8,6,120);
-    font-size: 18px;
+    font-size: 20px;
     cursor: pointer;
 }
 .fa-xmark:hover{
